@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488466720563",
+    "firebase_url": "https://assignment-edd67.firebaseio.com",
+    "project_id": "assignment-edd67",
+    "storage_bucket": "assignment-edd67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488466720563:android:6448d7ec7f2363bb714046",
+        "android_client_info": {
+          "package_name": "com.example.assigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488466720563-7vh7t09iu466vp0ivpjlkpskio01de5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9sAfM2IiG0jDgujS-IFvMgIJfsVsXbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488466720563-7vh7t09iu466vp0ivpjlkpskio01de5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

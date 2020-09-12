@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Assigment</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="pass_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="retypepass_error">Please enter a retype password</string>
+    <string name="error_invalid_retypepassword">Please enter a minimum password of 6 characters</string>
+    <string name="login">Login</string>
+    <string name="facebook_app_id">1722141311296028</string>
+    <string name="fb_login_protocol_scheme">fb1722141311296028</string>
+    <string name="email_address_login">Email Address</string>
+    <string name="password_login">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_here">Register Here</string>
+    <string name="reset_here">Reset here</string>
+    <string name="username_register">Username</string>
+    <string name="hint">hint</string>
+    <string name="email_address_register">Email Address</string>
+    <string name="hint_register">hint</string>
+    <string name="password_register">Password</string>
+    <string name="hint_register_pass">hint</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="hint_register_retypepass">hint</string>
+    <string name="terms_and_conditions">To register with us please tick to agree to our Terms and Conditions</string>
+    <string name="register_button">Register</string>
+    <string name="forgot_password_pages">Forgot Password?</string>
+    <string name="type_your_email_address_here">Type Your Email Address Here</string>
+    <string name="hint_email">hint email</string>
+    <string name="send">Send</string>
+
+</resources>
